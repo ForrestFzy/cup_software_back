@@ -1,0 +1,27 @@
+
+^python:S1192"FDefine a constant instead of duplicating this literal '.xlsx' 3 times.(•„«
+rpython:S117"VRename this local variable "dataX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„šü¢úÿÿÿÿ
+rpython:S117"VRename this local variable "dataY" to match the regular expression ^[_a-z][a-z0-9_]*$.(„šü¢úÿÿÿÿ
+mpython:S117?"VRename this local variable "testX" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ê—
+mpython:S117?"VRename this local variable "testY" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ê—
+npython:S117>"WRename this local variable "trainX" to match the regular expression ^[_a-z][a-z0-9_]*$.(óÜìä
+npython:S117>"WRename this local variable "trainY" to match the regular expression ^[_a-z][a-z0-9_]*$.(óÜìä
+Epython:S1481;"-Remove the unused local variable "test_size".(œ´³Š
+jpython:S117B"TRename this parameter "filePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÛÕj
+spython:S117S"\Rename this local variable "predictData" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å‘Ü”
+tpython:S117R"XRename this local variable "rawData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºğ•ßøÿÿÿÿ
+xpython:S117L"\Rename this local variable "testPredict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎñçÏûÿÿÿÿ
+vpython:S117V"ZRename this local variable "testScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(—í÷Óùÿÿÿÿ
+rpython:S117E"VRename this local variable "testX" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¿ó÷üÿÿÿÿ
+rpython:S117E"VRename this local variable "testY" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¿ó÷üÿÿÿÿ
+tpython:S117J"]Rename this local variable "trainPredict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó®şñ
+rpython:S117U"[Rename this local variable "trainScore" to match the regular expression ^[_a-z][a-z0-9_]*$.(©†²Ì
+spython:S117E"WRename this local variable "trainX" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¿ó÷üÿÿÿÿ
+spython:S117E"WRename this local variable "trainY" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¿ó÷üÿÿÿÿ
+opython:S117l"XRename this local variable "Predict" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Şöö
+tpython:S117Œ"\Rename this local variable "predictData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñò¶
+ppython:S117Œ"XRename this local variable "rawData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñò¶
+tpython:S117v"XRename this local variable "subFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş¶ÕÆúÿÿÿÿ
+ppython:S117‘"XRename this local variable "subFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ÆÜ•
+Cpython:S1481’"%Remove the unused local variable "k".(ĞÖ”ıÿÿÿÿ
+7python:S125Á"Remove this commented out code.(ØÓÇ

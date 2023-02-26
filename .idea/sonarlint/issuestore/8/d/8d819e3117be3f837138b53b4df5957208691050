@@ -1,0 +1,14 @@
+
+qpython:S1542"TRename function "Dataframe2Json" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜øçàûÿÿÿÿ
+ipython:S117A"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÚ„ßúÿÿÿÿ
+mpython:S117B"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íæ
+npython:S117B"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íæ
+ipython:S117A"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÚ„ßúÿÿÿÿ
+dpython:S117J"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãèı„
+npython:S117i"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¡¸õ
+opython:S117i"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¡¸õ
+fpython:S1542c"NRename function "svcModel" to match the regular expression ^[a-z_][a-z0-9_]*$.(€ª¥Ö
+Gpython:S108s")Either remove or fill this block of code.(ã‘Û¾8çÈóš£0
+upython:S117"YRename this local variable "dataList" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ‡Ûøüÿÿÿÿ
+kpython:S1542}"NRename function "paintSVM" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ñİƒ™üÿÿÿÿ
+<python:S125£"Remove this commented out code.(ÍŞ‘‘ûÿÿÿÿ

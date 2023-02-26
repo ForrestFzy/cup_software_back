@@ -1,0 +1,12 @@
+
+qpython:S1542"TRename function "Dataframe2Json" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜øçàûÿÿÿÿ
+ipython:S117A"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÚ„ßúÿÿÿÿ
+mpython:S117B"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íæ
+npython:S117B"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íæ
+ipython:S117A"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÚ„ßúÿÿÿÿ
+dpython:S117J"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôçË
+`python:S1542J"HRename function "NN" to match the regular expression ^[a-z_][a-z0-9_]*$.(ôçË
+npython:S117i"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¡¸õ
+opython:S117i"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¡¸õ
+mpython:S1542c"PRename function "gaussModel" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂµÂ¡şÿÿÿÿ
+Gpython:S108v")Either remove or fill this block of code.(ã‘Û¾8ÑÈñš£0
